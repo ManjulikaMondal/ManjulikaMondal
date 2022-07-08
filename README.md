@@ -8,17 +8,18 @@ I am always trying to grow and is curious to learn about new technologies !!
 - Among top 15 teams who got selected after Ideation Phase in Interapt Hackathon organized by Hackerearth
 
 ## :telephone_receiver: Get in touch 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jit-kumar-ghosh/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitkumarghosh28@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjulika-mondal-2286631a7/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjulimondal@gmail.com)
 
 ## :pushpin: Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jit48&repo=eventManagement)](https://github.com/jit48/eventManagement)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jit48&repo=Human-Resource-Management)](https://github.com/jit48/Human-Resource-Management)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManjulikaMondal&repo=eventManagement)](https://github.com/ManjulikaMondal/Cicada-Hackathon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManjulikaMondal&repo=Human-Resource-Management)](https://github.com/ManjulikaMondal/Human-Resource-Management)
 
-![Github Stat](https://github-readme-stats.vercel.app/api?username=ayushmankumar7&show_icons=true)
-![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=ayushmankumar7)
-![Ayushman's github activity graph](https://activity-graph.herokuapp.com/graph?username=ManjulikaMondal&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=true&hide_border=true)
+![Github Stat](https://github-readme-stats.vercel.app/api?username=ManjulikaMondal&show_icons=true)
+![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=ManjulikaMondal)
+![Manjulika's github activity graph](https://activity-graph.herokuapp.com/graph?username=ManjulikaMondal&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=true&hide_border=true)
 
-## :chart_with_upwards_trend: GitHub Stats
+<!-- ## :chart_with_upwards_trend: GitHub Stats
 ![Jit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jit48&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jit48&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
