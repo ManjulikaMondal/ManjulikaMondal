@@ -15,7 +15,9 @@ I am always trying to grow and is curious to learn about new technologies !!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jit48&repo=eventManagement)](https://github.com/jit48/eventManagement)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jit48&repo=Human-Resource-Management)](https://github.com/jit48/Human-Resource-Management)
 
-
+![Github Stat](https://github-readme-stats.vercel.app/api?username=ayushmankumar7&show_icons=true)
+![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=ayushmankumar7)
+![Ayushman's github activity graph](https://activity-graph.herokuapp.com/graph?username=ManjulikaMondal&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=true&hide_border=true)
 
 ## :chart_with_upwards_trend: GitHub Stats
 ![Jit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jit48&show_icons=true)
