@@ -1,4 +1,4 @@
-<img src="https://github.com/ManjulikaMondal/ManjulikaMondal/blob/main/Studio_Project.jpeg" alt="Manjulika's Github">
+<img src="https://github.com/ManjulikaMondal/ManjulikaMondal/blob/main/Screenshot%20(955).png" alt="Manjulika's Github">
 
 I am an aspiring **Frontend Developer**, who loves to code and develop full-stack web applications which can solve real world problems. Currently I have persued my BTech from BP Poddar Institute of Management and Technology in Electronics and Communication.
 I am always trying to grow and is curious to learn about new technologies !!
